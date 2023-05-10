@@ -1,0 +1,4 @@
+# ninja log v5
+0	164	7049804402175458	CMakeFiles/untitled1.dir/main.c.obj	963d195d3271162e
+4	151	7049804714740905	CMakeFiles/untitled1.dir/library.c.obj	64845e11ef5e48e9
+153	359	7049804716709002	libuntitled1.a	4474c3fa529c2a84
